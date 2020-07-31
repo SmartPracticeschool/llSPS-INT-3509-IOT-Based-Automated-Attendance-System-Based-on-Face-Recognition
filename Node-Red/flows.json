@@ -1,0 +1,1 @@
+[{"id":"76f4a6bb.f63018","type":"function","z":"fb679f76.8d7c","name":"","func":"msg.payload={'Attendance':global.get(\"Attendance\")}\nreturn msg;","outputs":1,"noerr":0,"initialize":"","finalize":"","x":490,"y":880,"wires":[["32fe3348.96720c"]]}]
